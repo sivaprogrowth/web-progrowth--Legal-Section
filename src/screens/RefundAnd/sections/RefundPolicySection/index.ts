@@ -1,0 +1,1 @@
+export { RefundPolicySection } from "./RefundPolicySection";
